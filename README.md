@@ -13,6 +13,6 @@ A simple shell script to extract **Scheme Name** and **Asset Value** from the [A
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/FundExtractor.git
+   git clone https://github.com/i-shreya/FundExtractor.git
    cd FundExtractor
 
